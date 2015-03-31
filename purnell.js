@@ -1,6 +1,6 @@
 function newWord() 
 {
-   var f = ["lol", "cool", "kanga", "gravity", "shrek", "adrian", "bear", "lawyer", "clown", "business", "ape", "big", "naked", "percy", "train", "funny", "admire", "thomas", "remy", "ethan"];
+   var f = ["placeholdersorandomworkslolololo", "cool", "kanga", "gravity", "shrek", "adrian", "bear", "lawyer", "clown", "business", "ape", "big", "naked", "percy", "train", "funny", "admire", "thomas", "remy", "ethan"];
    var s = ["cabinets", "shrek", "thing", "clown", "apron", "train", "mother", "guy", "cabbage", "farts", "car", "dude", "choochoo", "butt", "fart", "butts", "farts", "cabinet", "clowns"]
 	
 	var fl = f.length;
