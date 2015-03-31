@@ -1,6 +1,6 @@
 function newWord() 
 {
-   var f = ["cool", "kanga", "gravity", "shrek", "adrian", "bear", "lawyer", "clown", "business", "ape", "big", "naked", "percy", "train", "funny", "admire", "thomas", "remy", "ethan"];
+   var f = ["lol", "cool", "kanga", "gravity", "shrek", "adrian", "bear", "lawyer", "clown", "business", "ape", "big", "naked", "percy", "train", "funny", "admire", "thomas", "remy", "ethan"];
    var s = ["cabinets", "shrek", "thing", "clown", "apron", "train", "mother", "guy", "cabbage", "farts", "car", "dude", "choochoo", "butt", "fart", "butts", "farts", "cabinet", "clowns"]
 	
 	var fl = f.length;
@@ -14,12 +14,12 @@ function newWord()
 	
 	if(w1 != w2)
 	{
-					document.getElementById("w1").innerHTML = w1;
-	document.getElementById("w2").innerHTML = w2;
-	document.getElementById("w1").style.color = fh;
-	document.getElementById("w2").style.color = sh;
+		document.getElementById("w1").innerHTML = w1;
+		document.getElementById("w2").innerHTML = w2;
+		document.getElementById("w1").style.color = fh;
+		document.getElementById("w2").style.color = sh;
 		document.getElementById("p2").style.color = fh;
-	document.getElementById("p1").style.color = sh;
+		document.getElementById("p1").style.color = sh;
 	}
 	else
 	{
