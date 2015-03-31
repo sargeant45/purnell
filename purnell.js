@@ -3,8 +3,8 @@ function newWord()
    var f = ["cool", "kanga", "gravity", "shrek", "adrian", "bear", "lawyer", "clown", "business", "ape", "big", "naked", "percy", "train", "funny", "admire", "thomas", "remy", "ethan"];
    var s = ["cabinets", "shrek", "thing", "clown", "apron", "train", "mother", "guy", "cabbage", "farts", "car", "dude", "choochoo", "butt", "fart", "butts", "farts", "cabinet", "clowns"]
 	
-	var fl = f.length - 1;
-	var sl = s.length - 1;
+	var fl = f.length;
+	var sl = s.length;
 	
 	var fh = '#'+Math.floor(Math.random()*16777215).toString(16);
 	var sh = '#'+Math.floor(Math.random()*16777215).toString(16);
